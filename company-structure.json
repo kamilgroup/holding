@@ -1,0 +1,19 @@
+[
+  {
+    "id": "bisnis-a",
+    "name": "Bisnis A",
+    "type": "perusahaan",
+    "children": [
+      {
+        "id": "bisnis-a-cabang-medan",
+        "name": "Cabang Medan",
+        "type": "cabang",
+        "children": [
+          { "id": "bisnis-a-outlet-ringroad", "name": "Outlet Ring Road", "type": "outlet", "children": [] }
+        ]
+      }
+    ]
+  },
+  { "id": "bisnis-b", "name": "Bisnis B", "type": "perusahaan", "children": [] },
+  { "id": "bisnis-c", "name": "Bisnis C", "type": "perusahaan", "children": [] }
+]
